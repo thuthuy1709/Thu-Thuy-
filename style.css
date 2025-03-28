@@ -1,5 +1,5 @@
-   .header {color: light-blue; background-color: gray; text-align: center; padding: 30px;}
-   .menu {color: tomato; background-color: yellow;}
-   .menu a {}   
-   .menu a: hover{color: pink;}
+   .header {color: DarkBlue; background-color: gray; text-align: center; padding: 30px;}
+   .menu {color: GhostWhite; background-color: LightBlue;display: block;}
+   .menu a {background-color:LightCyan;}   
+   .menu a hover{color: HoneyDew;}
    .noidung {background-color: gray;}
