@@ -1,4 +1,5 @@
    .header {color: light-blue; background-color: gray; text-align: center; padding: 30px;}
    .menu {color: tomato; background-color: yellow;}
-   .menu a {}    .menu a: hover{color: pink;}
+   .menu a {}   
+   .menu a: hover{color: pink;}
    .noidung {background-color: gray;}
